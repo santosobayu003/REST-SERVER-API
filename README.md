@@ -1,2 +1,5 @@
-# REST-SERVER-with-Library-chriskacerguis dan CodeIgniter 3
-Rest server API menggunakan Library dari chriskacerguis dan framework PHP CodeIgniter 3.
+# Library-chriskacerguis dan CodeIgniter 3
+1. Install library didalam folder aplikasi pada project CodeIgniter 3.
+2. Copy file Rest.php kedalam folder Aplikasi->Config pada project CodeIgniter 3.
+
+# Model
