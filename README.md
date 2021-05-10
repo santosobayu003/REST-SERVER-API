@@ -7,6 +7,8 @@
 
 ## Controler CRUD-REST-API
 
+```php
+<?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
 use chriskacerguis\RestServer\RestController;
@@ -112,4 +114,4 @@ class C_api extends RestController
 		}
 	}
 }
-
+```
