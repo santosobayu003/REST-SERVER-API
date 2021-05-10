@@ -1,6 +1,8 @@
-# Library-chriskacerguis dan CodeIgniter 3
-1. Install library didalam folder aplikasi pada project CodeIgniter 3.11
-2. Copy file Rest.php kedalam folder Aplikasi->Config pada project CodeIgniter 3.11
+# Library-chriskacerguis dan CodeIgniter 3.11
+
+1. Download library Rest API Chriskacerguis pada https://github.com/chriskacerguis/codeigniter-restserver
+2. Install library Chriskacerguis kedalam folder aplikasi project CodeIgniter 3.11
+3. Copy file Rest.php kedalam folder Aplikasi->Config pada project CodeIgniter 3.11
 
 ## Model
 
