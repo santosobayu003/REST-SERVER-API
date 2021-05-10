@@ -38,7 +38,7 @@ class M_api extends CI_Model
 
 ## COntroler
 
-<?php
+
 defined('BASEPATH') or exit('No direct script access allowed');
 
 use chriskacerguis\RestServer\RestController;
