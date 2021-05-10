@@ -36,7 +36,7 @@ class M_api extends CI_Model
     }
 }
 
-## COntroler
+## Controler
 
 
 defined('BASEPATH') or exit('No direct script access allowed');
