@@ -5,7 +5,7 @@
 3. Copy file Rest.php kedalam folder Aplikasi->Config pada project CodeIgniter 3.11
 
 
-## Controler
+## Controler CRUD-REST-API
 
 defined('BASEPATH') or exit('No direct script access allowed');
 
